@@ -1,0 +1,2 @@
+# JavaFunctionalFunctionalInterfacesSupplier
+Describe Supplier Functional Interface inside function Package
